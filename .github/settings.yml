@@ -1,0 +1,5 @@
+_extends: .github:settings.yml
+repository:
+  name: runexit
+  description: A fork of "runexit" (http://www.shdon.com/software/tools) - a simple 16-bit Windows utility intended to run a single application and immediately closing down Windows after that application quits.
+
